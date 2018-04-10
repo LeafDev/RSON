@@ -4,7 +4,7 @@ List of examples and idea repository. This will serves as the feature management
 ## Basics
 ### Select Method
 Client Request:
-```JSON
+```javascript
 {
     "database": "[DB database url]",
     "private_key": "[PRIVATE_KEY]",
@@ -22,7 +22,7 @@ Client Request:
 
 ```
 Server Response:
-```JSON
+```javascript
 {
     "[table_name]": [
         {
