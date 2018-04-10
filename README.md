@@ -28,20 +28,16 @@ Server Response:
         {
             "[col_name_example1]": "[value 1]",
             "[col_name_in_table]": "[value 1]",
-            ...
             "[col_name_every]": "[value 1]"
         },
         {
             "[col_name_example1]": "[value 2]",
             "[col_name_in_table]": "[value 2]",
-            ...
             "[col_name_every]": "[value 2]"
         },
-        ...
         {
             "[col_name_example1]": "[value N]",
             "[col_name_in_table]": "[value N]",
-            ...
             "[col_name_every]": "[value N]"
         }
     ]
